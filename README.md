@@ -1,4 +1,4 @@
-# 🚀 Spring Boot Caching Demo
+# Spring Boot Caching
 
 A simple Spring Boot project demonstrating caching using `@Cacheable`, `@CachePut`, and `@CacheEvict`.
 
